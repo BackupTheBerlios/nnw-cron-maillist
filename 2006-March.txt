@@ -1,0 +1,28 @@
+From ameulen at unet.nl  Wed Mar 15 12:02:16 2006
+From: ameulen at unet.nl (Ed van der Meulen)
+Date: Wed, 15 Mar 2006 12:02:16 +0100
+Subject: [Nnw-cron] NNW-Chronicle 66, what do you think of it.
+Message-ID: <5.1.0.14.2.20060315115258.02d11850@pop.unet.nl>
+
+Hi,
+
+How are you,
+
+In this 66-th NNW chronicle I will talk about seeing modules like it were 
+black boxes with an input and an output. An IPO system, 
+input-processing-output. This is another perspective about what we are 
+doing. I hope you will like it.
+
+Have a nice spring
+
+ed
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/nnw-cron/attachments/20060315/0e88b757/attachment.html>
+-------------- next part --------------
+
+
+No virus found in this outgoing message.
+Checked by AVG Anti-Virus.
+Version: 7.1.385 / Virus Database: 268.2.3/281 - Release Date: 14-3-2006
+

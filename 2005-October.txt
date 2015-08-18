@@ -1,0 +1,36 @@
+From ameulen at unet.nl  Sat Oct 15 12:41:24 2005
+From: ameulen at unet.nl (Ed van der Meulen)
+Date: Sat, 15 Oct 2005 12:41:24 +0200
+Subject: [Nnw-cron] The brand new 60th NNW Chronicle
+Message-ID: <5.1.0.14.2.20051015122645.02717878@pop.unet.nl>
+
+Hi,
+
+How are you?
+
+The sun shines here.
+
+In the new 61st Chronicle I will talk about that odd phenomenon that stupid 
+neuron or cell we have. So marvelous interacting with the modules. The cell 
+is just a C-struct. Not so special. But with strange features. Functioning 
+can destroy a cell and the information in it can grow.
+
+I will talk about what we do further.
+
+I hope you can like the 61-st NNW chronicle. And that you can find some 
+time for it. I have done my best for you. Old chronicles are on the site to 
+admire, grin.
+
+Please have nice day
+
+ed 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/nnw-cron/attachments/20051015/acc58d20/attachment.html>
+-------------- next part --------------
+
+
+No virus found in this outgoing message.
+Checked by AVG Anti-Virus.
+Version: 7.0.344 / Virus Database: 267.12.0/134 - Release Date: 14-10-2005
+
